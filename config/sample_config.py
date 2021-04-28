@@ -5,7 +5,7 @@ API_ID = "4810065"
 API_HASH = "01d3d24dcbbfba7189ee7c506f1a0fdb"
 
 # Get this from @Botfather
-BOT_TOKEN = "1790128013:AAEMEHyagWwfUMZqT2AFjRiOxKezsfJV3y4"
+BOT_TOKEN = "1790128013:AAESIats1yXV3fSb9XPcnjIPfSKCc466JdA"
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
